@@ -30,24 +30,6 @@ make
 | Eloi Junior | `jogador.c/.h`, `utils.c/.h` |
 | Enzo Goncalves | `arquivo.c/.h`, `main.c`, `Makefile`, `README.md` |
 
-Cada arquivo `.c`/`.h` tem um comentário `/* Autor: ... */` indicando o responsável.
-
-**Importante para a nota individual (o professor avalia pelo histórico real de commits):**
-cada integrante deve clonar o repositório com a própria conta do GitHub, revisar/ajustar
-o(s) arquivo(s) sob sua responsabilidade (entender o código, comentar, corrigir o que
-achar necessário) e dar o `git add` / `commit` / `push` **de dentro da própria conta**.
-Não adianta só copiar os arquivos prontos — o grupo deve ler o código junto, porque a
-apresentação é com arguição individual sobre qualquer parte do projeto.
-
-## Conceitos exigidos no trabalho
-- Entrada e saida: `printf`, `fgets`, `strtol` (leitura validada)
-- Controle: `while`, `do-while`, `for`, `if`, `switch`
-- Funcoes e modularizacao: 9 modulos .c com seus .h
-- Homogeneas: vetores de `char`, `RUMORES[]`, vetores de ponteiros para atributos
-- Heterogeneas: `Personagem`, `Inimigo`, `NPC`, `ResultadoTeste`, vetores de structs
-- Arquivos: `savegame.dat` (wb/rb) e `historico.txt` (a/r), sempre com `fclose`
-- Validacoes: erro ao abrir/criar arquivo, falha de `malloc`, save corrompido, busca sem resultado
-
 ## Mecanicas
 - **Atributos:** Forca, Destreza, Inteligencia, Carisma (12 pontos para distribuir).
 - **Teste:** d20 + modificador do atributo >= dificuldade. 20 natural sempre passa; 1 sempre falha.
