@@ -1,0 +1,5 @@
+[16/11/2026 14:15:06] Nonody (Nv 1): Novo jogo iniciado
+[16/11/2026 14:15:21] Nonody (Nv 1): Venceu o combate contra Goblin
+[16/11/2026 14:15:21] Nonody (Nv 1): Chegou a Vila Alvorada
+[16/11/2026 14:15:47] Nonody (Nv 1): Encontrou a Fonte Antiga
+[16/11/2026 14:20:03] Nonody (Nv 1): Encontrou um bau nas Terras de Alvorada
